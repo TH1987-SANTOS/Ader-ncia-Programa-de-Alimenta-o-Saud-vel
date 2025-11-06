@@ -1,0 +1,366 @@
+﻿ID_Cliente,Idade,Gênero,Renda_Anual (R$),Cidade,Frequência_Compra,Valor_Médio_Compra (R$),Categoria_Preferida,Participa_Programa,Feedback_Cliente,Canal_Preferred,Pontuação_Lealdade,Tipo_Produto,Faixa_Etaria,Cluster,Tipo_Alimento
+1001,42,Feminino,58900.25,São Paulo,8,145.3,Produtos Alimenticios,Sim,Satisfeito,Online,3.8,Não Saudavel,35-44,2,Saudável
+1002,29,Masculino,45600.8,Rio de Janeiro,12,89.5,Produtos Alimenticios,Não,Neutro,App,2.1,Saudavel,25-34,0,Saudável
+1003,35,Feminino,72300.45,Belo Horizonte,6,198.75,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,4.5,Não Saudavel,35-44,2,Saudável
+1005,26,Feminino,68500.9,Porto Alegre,11,178.2,Produtos Alimenticios,Sim,Satisfeito,App,3.2,Saudavel,25-34,0,Saudável
+1007,43,Masculino,81200.75,São Paulo,5,245.6,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,1.4,Saudavel,35-44,2,Saudável
+1009,57,Masculino,63400.85,Belo Horizonte,8,185.9,Produtos Alimenticios,Sim,Insatisfeito,Online,2.7,Não Saudavel,55-64,1,Saudável
+1011,46,Outro,59700.6,Porto Alegre,6,165.4,Produtos Alimenticios,Sim,Neutro,Loja Física,3.3,Não Saudavel,45-54,2,Saudável
+1013,28,Feminino,44900.75,São Paulo,12,87.2,Produtos Alimenticios,Sim,Muito Satisfeito,App,4.8,Não Saudavel,25-34,0,Saudável
+1015,37,Feminino,58300.85,Belo Horizonte,8,142.3,Produtos Alimenticios,Não,Neutro,Loja Física,2.2,Saudavel,35-44,0,Saudável
+1017,29,Outro,49200.6,Porto Alegre,11,103.45,Produtos Alimenticios,Sim,Satisfeito,Online,3.7,Saudavel,25-34,0,Saudável
+1019,34,Masculino,55600.35,São Paulo,10,129.8,Produtos Alimenticios,Sim,Neutro,App,2.8,Saudavel,25-34,0,Saudável
+1021,27,Feminino,48500.2,São Paulo,9,135.75,Produtos Alimenticios,Sim,Satisfeito,Online,3.5,Não Saudavel,25-34,0,Saudável
+1022,35,Masculino,62300.45,Rio de Janeiro,7,168.9,Produtos Alimenticios,Não,Neutro,App,2.3,Saudavel,35-44,2,Saudável
+1023,42,Outro,55800.8,Belo Horizonte,12,142.6,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,4.2,Não Saudavel,35-44,0,Saudável
+1024,29,Feminino,51200.35,Curitiba,8,119.45,Produtos Alimenticios,Sim,Satisfeito,Online,3.1,Não Saudavel,25-34,0,Saudável
+1025,46,Masculino,67900.6,Porto Alegre,6,185.3,Produtos Alimenticios,Não,Insatisfeito,App,1.8,Saudavel,45-54,2,Saudável
+1026,33,Feminino,44700.9,Recife,11,98.75,Produtos Alimenticios,Sim,Muito Satisfeito,Online,4.1,Não Saudavel,25-34,0,Saudável
+1027,52,Masculino,73200.25,São Paulo,5,224.8,Produtos Alimenticios,Não,Neutro,Loja Física,2.1,Não Saudavel,45-54,2,Saudável
+1028,26,Outro,49800.7,Rio de Janeiro,10,125.4,Produtos Alimenticios,Sim,Satisfeito,App,3.6,Não Saudavel,25-34,0,Saudável
+1029,39,Feminino,58600.45,Belo Horizonte,8,156.2,Produtos Alimenticios,Sim,Insatisfeito,Online,2.9,Não Saudavel,35-44,0,Saudável
+1030,31,Masculino,46200.8,Curitiba,13,108.65,Produtos Alimenticios,Não,Muito Satisfeito,App,4.3,Saudavel,25-34,0,Saudável
+1031,48,Feminino,71400.35,Porto Alegre,7,195.9,Produtos Alimenticios,Sim,Satisfeito,Loja Física,3.4,Saudavel,45-54,2,Saudável
+1032,25,Masculino,52900.6,Recife,9,138.75,Produtos Alimenticios,Sim,Neutro,Online,2.7,Saudavel,25-34,0,Saudável
+1033,54,Outro,64800.9,São Paulo,6,178.45,Produtos Alimenticios,Não,Satisfeito,App,2.5,Não Saudavel,45-54,2,Saudável
+1034,30,Feminino,47300.25,Rio de Janeiro,12,115.8,Produtos Alimenticios,Sim,Muito Satisfeito,Online,4.0,Saudavel,25-34,0,Saudável
+1035,37,Masculino,59700.7,Belo Horizonte,8,165.3,Produtos Alimenticios,Sim,Insatisfeito,Loja Física,2.2,Não Saudavel,35-44,0,Saudável
+1036,43,Feminino,68200.45,Curitiba,5,192.6,Produtos Alimenticios,Não,Neutro,App,1.9,Saudavel,35-44,2,Saudável
+1037,28,Outro,50400.8,Porto Alegre,11,132.9,Produtos Alimenticios,Sim,Satisfeito,Online,3.8,Não Saudavel,25-34,0,Saudável
+1038,51,Masculino,72600.35,Recife,7,205.75,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,3.7,Não Saudavel,45-54,2,Saudável
+1039,24,Feminino,45800.6,São Paulo,10,122.4,Produtos Alimenticios,Não,Neutro,App,2.4,Saudavel,18-24,0,Saudável
+1040,38,Masculino,61500.9,Rio de Janeiro,8,172.85,Produtos Alimenticios,Sim,Satisfeito,Online,3.3,Não Saudavel,35-44,2,Saudável
+1041,45,Outro,56700.25,Belo Horizonte,9,149.6,Produtos Alimenticios,Sim,Insatisfeito,App,2.8,Não Saudavel,45-54,0,Saudável
+1042,32,Feminino,48900.7,Curitiba,12,128.35,Produtos Alimenticios,Não,Muito Satisfeito,Online,4.5,Saudavel,25-34,0,Saudável
+1043,49,Masculino,70300.45,Porto Alegre,6,188.9,Produtos Alimenticios,Sim,Neutro,Loja Física,2.6,Saudavel,45-54,2,Saudável
+1044,27,Feminino,53200.8,Recife,8,144.75,Produtos Alimenticios,Sim,Satisfeito,App,3.2,Não Saudavel,25-34,0,Saudável
+1045,41,Masculino,66800.35,São Paulo,7,182.4,Produtos Alimenticios,Não,Insatisfeito,Online,1.7,Não Saudavel,35-44,2,Saudável
+1046,34,Outro,49600.6,Rio de Janeiro,11,131.85,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,4.1,Saudavel,25-34,0,Saudável
+1047,50,Feminino,74200.9,Belo Horizonte,5,218.65,Produtos Alimenticios,Sim,Satisfeito,App,3.0,Saudavel,45-54,2,Saudável
+1048,26,Masculino,44300.25,Curitiba,10,116.5,Produtos Alimenticios,Não,Neutro,Online,2.3,Não Saudavel,25-34,0,Saudável
+1049,36,Feminino,58900.7,Porto Alegre,8,163.2,Produtos Alimenticios,Sim,Insatisfeito,App,2.7,Não Saudavel,35-44,0,Saudável
+1050,47,Masculino,69500.45,Recife,6,194.8,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,3.9,Saudavel,45-54,2,Saudável
+1051,29,Outro,51800.8,São Paulo,13,136.9,Produtos Alimenticios,Não,Satisfeito,Online,2.1,Não Saudavel,25-34,0,Saudável
+1052,53,Feminino,73600.35,Rio de Janeiro,7,208.45,Produtos Alimenticios,Sim,Neutro,App,2.9,Não Saudavel,45-54,2,Saudável
+1053,25,Masculino,46700.6,Belo Horizonte,9,125.75,Produtos Alimenticios,Sim,Satisfeito,Online,3.4,Não Saudavel,25-34,0,Saudável
+1054,42,Feminino,62400.9,Curitiba,8,175.3,Produtos Alimenticios,Não,Insatisfeito,Loja Física,1.8,Não Saudavel,35-44,2,Saudável
+1055,31,Outro,54300.25,Porto Alegre,12,147.85,Produtos Alimenticios,Sim,Muito Satisfeito,App,4.2,Saudavel,25-34,0,Saudável
+1056,48,Masculino,68700.7,Recife,5,196.4,Produtos Alimenticios,Sim,Neutro,Online,2.5,Não Saudavel,45-54,2,Saudável
+1057,33,Feminino,50200.45,São Paulo,11,133.6,Produtos Alimenticios,Não,Satisfeito,Loja Física,2.8,Saudavel,25-34,0,Saudável
+1058,40,Masculino,65400.8,Rio de Janeiro,7,180.25,Produtos Alimenticios,Sim,Insatisfeito,App,2.1,Não Saudavel,35-44,2,Saudável
+1059,28,Feminino,47800.35,Belo Horizonte,9,128.9,Produtos Alimenticios,Não,Muito Satisfeito,Online,4.0,Saudavel,25-34,0,Saudável
+1060,45,Outro,71200.6,Curitiba,6,201.75,Produtos Alimenticios,Sim,Neutro,Loja Física,2.7,Não Saudavel,45-54,2,Saudável
+1061,32,Masculino,52600.9,Porto Alegre,12,142.4,Produtos Alimenticios,Sim,Satisfeito,App,3.5,Não Saudavel,25-34,0,Saudável
+1062,49,Feminino,67900.25,Recife,8,187.6,Produtos Alimenticios,Não,Insatisfeito,Online,1.9,Não Saudavel,45-54,1,Saudável
+1063,26,Outro,49300.7,São Paulo,10,131.85,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,4.3,Saudavel,25-34,0,Saudável
+1064,52,Masculino,74800.45,Rio de Janeiro,5,215.3,Produtos Alimenticios,Sim,Satisfeito,App,3.1,Não Saudavel,45-54,2,Saudável
+1065,35,Feminino,56700.8,Belo Horizonte,11,158.75,Produtos Alimenticios,Não,Neutro,Online,2.6,Saudavel,35-44,0,Saudável
+1066,41,Masculino,63200.35,Curitiba,7,175.9,Produtos Alimenticios,Sim,Insatisfeito,Loja Física,2.2,Saudavel,35-44,2,Saudável
+1067,29,Feminino,48600.6,Porto Alegre,13,124.45,Produtos Alimenticios,Sim,Muito Satisfeito,App,4.1,Saudavel,25-34,0,Saudável
+1068,46,Outro,69800.9,Recife,6,192.8,Produtos Alimenticios,Não,Satisfeito,Online,2.4,Não Saudavel,45-54,2,Saudável
+1069,34,Masculino,54900.25,São Paulo,9,148.65,Produtos Alimenticios,Sim,Neutro,Loja Física,2.9,Saudavel,25-34,0,Saudável
+1070,50,Feminino,72400.7,Rio de Janeiro,8,206.35,Produtos Alimenticios,Sim,Insatisfeito,App,2.3,Saudavel,45-54,1,Saudável
+1071,27,Outro,46200.45,Belo Horizonte,12,117.8,Produtos Alimenticios,Não,Muito Satisfeito,Online,4.2,Saudavel,25-34,0,Saudável
+1072,43,Masculino,66300.8,Curitiba,7,184.25,Produtos Alimenticios,Sim,Satisfeito,Loja Física,3.4,Saudavel,35-44,2,Saudável
+1073,31,Feminino,53800.35,Porto Alegre,10,146.9,Produtos Alimenticios,Sim,Neutro,App,2.8,Não Saudavel,25-34,0,Saudável
+1074,48,Masculino,70600.6,Recife,5,198.75,Produtos Alimenticios,Não,Insatisfeito,Online,1.8,Saudavel,45-54,2,Saudável
+1075,60,Outro,82414.81,Belo Horizonte,11,40.27,Produtos Alimenticios,Sim,Muito Satisfeito,App,1.9,Não Saudavel,55-64,3,Não Saudável
+1076,63,Feminino,110673.39,Porto Alegre,7,61.37,Produtos Alimenticios,Não,Muito Satisfeito,App,3.7,Não Saudavel,55-64,3,Não Saudável
+1077,67,Masculino,26817.29,Brasília,3,134.74,Produtos Alimenticios,Não,Satisfeito,Loja Física,4.2,Saudavel,65+,2,Saudável
+1078,20,Feminino,58504.95,Rio de Janeiro,12,68.87,Produtos Alimenticios,Não,Insatisfeito,App,0.9,Não Saudavel,18-24,0,Saudável
+1079,61,Outro,26260.5,Porto Alegre,12,241.76,Produtos Alimenticios,Sim,Muito Satisfeito,Online,4.8,Saudavel,55-64,1,Saudável
+1080,28,Feminino,64941.72,Curitiba,12,239.04,Produtos Alimenticios,Não,Neutro,App,3.0,Não Saudavel,25-34,0,Saudável
+1081,54,Feminino,109151.22,Fortaleza,9,115.42,Produtos Alimenticios,Não,Muito Satisfeito,Online,1.1,Não Saudavel,45-54,3,Não Saudável
+1082,42,Masculino,54596.12,Porto Alegre,12,66.57,Produtos Alimenticios,Sim,Muito Insatisfeito,Online,3.2,Saudavel,35-44,0,Saudável
+1083,47,Masculino,88606.59,Recife,8,236.42,Produtos Alimenticios,Sim,Insatisfeito,Online,1.4,Saudavel,45-54,1,Saudável
+1084,19,Masculino,30227.8,Fortaleza,10,261.51,Produtos Alimenticios,Não,Muito Satisfeito,Online,0.9,Saudavel,18-24,0,Saudável
+1085,31,Feminino,110678.48,Belo Horizonte,6,269.84,Produtos Alimenticios,Sim,Muito Satisfeito,Online,3.1,Saudavel,25-34,2,Saudável
+1086,60,Outro,63479.28,Porto Alegre,1,193.21,Produtos Alimenticios,Sim,Satisfeito,Online,4.7,Não Saudavel,55-64,2,Saudável
+1087,37,Feminino,100972.77,Salvador,4,72.16,Produtos Alimenticios,Não,Insatisfeito,Online,2.5,Não Saudavel,35-44,3,Não Saudável
+1088,25,Outro,27707.33,Salvador,11,100.93,Produtos Alimenticios,Sim,Neutro,Loja Física,2.2,Saudavel,25-34,0,Saudável
+1089,66,Masculino,49327.49,Belo Horizonte,7,101.19,Produtos Alimenticios,Não,Neutro,App,1.1,Saudavel,65+,3,Não Saudável
+1090,64,Masculino,83071.45,Goiânia,13,60.51,Produtos Alimenticios,Sim,Muito Insatisfeito,Loja Física,0.8,Saudavel,55-64,3,Não Saudável
+1091,65,Feminino,74723.18,Porto Alegre,14,221.04,Produtos Alimenticios,Sim,Muito Insatisfeito,App,1.5,Saudavel,65+,1,Saudável
+1092,49,Masculino,69319.77,Rio de Janeiro,6,260.83,Produtos Alimenticios,Não,Neutro,App,3.8,Não Saudavel,45-54,2,Saudável
+1093,59,Masculino,110682.61,Porto Alegre,14,66.51,Produtos Alimenticios,Sim,Muito Satisfeito,Online,3.1,Saudavel,55-64,3,Não Saudável
+1094,52,Feminino,119231.14,São Paulo,6,78.32,Produtos Alimenticios,Sim,Neutro,App,3.8,Saudavel,45-54,3,Não Saudável
+1095,34,Masculino,62268.0,Rio de Janeiro,5,149.32,Produtos Alimenticios,Sim,Satisfeito,App,2.8,Saudavel,25-34,2,Saudável
+1096,56,Masculino,105017.87,Belo Horizonte,12,178.84,Produtos Alimenticios,Não,Satisfeito,App,4.4,Saudavel,55-64,1,Saudável
+1097,59,Masculino,95146.35,Curitiba,15,274.04,Produtos Alimenticios,Não,Muito Insatisfeito,App,2.4,Saudavel,55-64,1,Saudável
+1098,23,Masculino,26161.71,Curitiba,6,210.42,Produtos Alimenticios,Não,Insatisfeito,Online,2.0,Saudavel,18-24,0,Saudável
+1099,68,Outro,72321.83,Fortaleza,3,271.26,Produtos Alimenticios,Sim,Muito Insatisfeito,Loja Física,0.5,Saudavel,65+,1,Saudável
+1100,43,Feminino,63832.22,Goiânia,10,23.4,Produtos Alimenticios,Sim,Satisfeito,Online,4.4,Saudavel,35-44,0,Saudável
+1101,24,Masculino,49280.1,São Paulo,1,181.19,Produtos Alimenticios,Não,Satisfeito,Loja Física,2.7,Não Saudavel,18-24,2,Saudável
+1102,59,Feminino,89955.05,Goiânia,6,228.45,Produtos Alimenticios,Sim,Neutro,App,1.5,Não Saudavel,55-64,1,Saudável
+1103,50,Outro,40372.47,Porto Alegre,4,130.49,Produtos Alimenticios,Não,Muito Insatisfeito,Online,1.3,Saudavel,45-54,3,Não Saudável
+1104,33,Feminino,78440.27,Curitiba,15,115.45,Produtos Alimenticios,Não,Satisfeito,Online,0.9,Não Saudavel,25-34,0,Saudável
+1105,66,Masculino,88020.65,Brasília,15,67.02,Produtos Alimenticios,Não,Neutro,Loja Física,5.0,Saudavel,65+,3,Não Saudável
+1106,69,Masculino,34586.37,São Paulo,3,48.81,Produtos Alimenticios,Não,Insatisfeito,App,2.4,Saudavel,65+,3,Não Saudável
+1107,69,Outro,118974.6,Brasília,8,77.61,Produtos Alimenticios,Sim,Neutro,Loja Física,2.2,Saudavel,65+,3,Não Saudável
+1108,26,Masculino,44238.93,São Paulo,1,187.59,Produtos Alimenticios,Não,Muito Insatisfeito,Loja Física,0.9,Saudavel,25-34,2,Saudável
+1109,22,Masculino,86206.1,Goiânia,7,87.91,Produtos Alimenticios,Sim,Muito Insatisfeito,App,0.5,Saudavel,18-24,0,Saudável
+1110,45,Feminino,76852.84,Porto Alegre,9,225.28,Produtos Alimenticios,Sim,Muito Satisfeito,Online,3.8,Não Saudavel,45-54,1,Saudável
+1111,19,Feminino,112814.43,Belo Horizonte,1,196.54,Produtos Alimenticios,Sim,Muito Satisfeito,Online,4.8,Saudavel,18-24,2,Saudável
+1112,63,Masculino,104529.62,Recife,11,282.24,Produtos Alimenticios,Não,Satisfeito,Loja Física,0.6,Saudavel,55-64,1,Saudável
+1113,56,Outro,107256.17,Porto Alegre,11,130.15,Produtos Alimenticios,Sim,Neutro,App,1.6,Saudavel,55-64,3,Não Saudável
+1114,27,Feminino,83629.95,Curitiba,9,158.81,Produtos Alimenticios,Sim,Neutro,Online,0.3,Saudavel,25-34,0,Saudável
+1115,43,Outro,30817.57,Salvador,15,35.62,Produtos Alimenticios,Sim,Satisfeito,App,3.6,Saudavel,35-44,0,Saudável
+1116,52,Outro,111225.87,Recife,11,112.81,Produtos Alimenticios,Não,Muito Satisfeito,Online,1.0,Saudavel,45-54,3,Não Saudável
+1117,19,Outro,24799.74,Fortaleza,15,207.72,Produtos Alimenticios,Sim,Neutro,App,4.0,Não Saudavel,18-24,0,Saudável
+1118,50,Masculino,39404.83,Recife,5,182.31,Produtos Alimenticios,Sim,Insatisfeito,App,2.5,Não Saudavel,45-54,2,Saudável
+1119,58,Outro,118353.04,Salvador,14,192.4,Produtos Alimenticios,Não,Muito Insatisfeito,Online,5.0,Saudavel,55-64,1,Saudável
+1120,41,Outro,112421.48,Porto Alegre,11,195.09,Produtos Alimenticios,Sim,Neutro,App,2.7,Saudavel,35-44,1,Saudável
+1121,49,Masculino,57447.04,Curitiba,1,216.88,Produtos Alimenticios,Não,Muito Satisfeito,Online,1.7,Não Saudavel,45-54,2,Saudável
+1122,32,Outro,96509.52,Recife,3,89.3,Produtos Alimenticios,Sim,Insatisfeito,Loja Física,2.3,Não Saudavel,25-34,2,Saudável
+1123,59,Masculino,89348.85,Porto Alegre,13,244.08,Produtos Alimenticios,Sim,Neutro,App,3.5,Saudavel,55-64,1,Saudável
+1124,60,Feminino,27133.35,Salvador,1,155.56,Produtos Alimenticios,Não,Satisfeito,Loja Física,0.2,Não Saudavel,55-64,3,Não Saudável
+1125,36,Outro,30810.42,Fortaleza,15,132.69,Produtos Alimenticios,Sim,Muito Satisfeito,Online,4.6,Não Saudavel,35-44,0,Saudável
+1126,64,Masculino,60098.59,Curitiba,10,222.54,Produtos Alimenticios,Sim,Neutro,Online,2.7,Saudavel,55-64,1,Saudável
+1127,27,Outro,116892.46,Curitiba,15,221.16,Produtos Alimenticios,Sim,Muito Insatisfeito,Online,0.3,Saudavel,25-34,1,Saudável
+1128,49,Masculino,87932.08,Fortaleza,2,102.15,Produtos Alimenticios,Não,Insatisfeito,Online,0.3,Não Saudavel,45-54,3,Não Saudável
+1129,70,Outro,34865.17,Goiânia,3,81.25,Produtos Alimenticios,Não,Insatisfeito,Loja Física,3.4,Não Saudavel,65+,3,Não Saudável
+1130,23,Masculino,73231.76,Recife,11,192.01,Produtos Alimenticios,Sim,Insatisfeito,App,2.5,Saudavel,18-24,0,Saudável
+1131,43,Outro,76597.49,Salvador,6,206.55,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,0.5,Saudavel,35-44,1,Saudável
+1132,40,Masculino,47814.41,Brasília,15,209.68,Produtos Alimenticios,Sim,Neutro,Online,3.8,Não Saudavel,35-44,0,Saudável
+1133,32,Feminino,32159.55,Fortaleza,14,253.04,Produtos Alimenticios,Não,Neutro,Online,0.2,Não Saudavel,25-34,1,Saudável
+1134,33,Masculino,117303.99,Fortaleza,5,35.77,Produtos Alimenticios,Não,Neutro,Loja Física,2.7,Saudavel,25-34,3,Não Saudável
+1135,42,Feminino,99141.27,Curitiba,9,283.19,Produtos Alimenticios,Não,Satisfeito,Online,3.3,Saudavel,35-44,1,Saudável
+1136,55,Masculino,99627.47,São Paulo,15,262.98,Produtos Alimenticios,Não,Satisfeito,App,3.9,Saudavel,55-64,1,Saudável
+1137,70,Outro,37078.7,Goiânia,3,241.19,Produtos Alimenticios,Não,Insatisfeito,Online,3.5,Saudavel,65+,2,Saudável
+1138,44,Outro,58551.75,Rio de Janeiro,4,172.38,Produtos Alimenticios,Não,Insatisfeito,App,2.9,Não Saudavel,35-44,2,Saudável
+1139,55,Masculino,113843.2,Goiânia,11,268.21,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,1.5,Não Saudavel,55-64,1,Saudável
+1140,46,Masculino,63333.33,Porto Alegre,3,40.93,Produtos Alimenticios,Sim,Insatisfeito,Online,0.8,Não Saudavel,45-54,3,Não Saudável
+1141,25,Outro,89701.85,Recife,2,130.11,Produtos Alimenticios,Não,Neutro,App,1.4,Não Saudavel,25-34,2,Saudável
+1142,27,Feminino,109938.99,Porto Alegre,3,189.27,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,4.5,Saudavel,25-34,2,Saudável
+1143,40,Masculino,92794.74,Rio de Janeiro,4,119.59,Produtos Alimenticios,Não,Muito Satisfeito,Online,2.0,Não Saudavel,35-44,3,Não Saudável
+1144,46,Feminino,45540.57,Belo Horizonte,12,132.0,Produtos Alimenticios,Sim,Satisfeito,Online,3.2,Saudavel,45-54,0,Saudável
+1145,58,Feminino,59815.52,Brasília,6,111.75,Produtos Alimenticios,Sim,Insatisfeito,Loja Física,4.8,Saudavel,55-64,2,Saudável
+1146,33,Feminino,39064.9,Goiânia,15,60.01,Produtos Alimenticios,Sim,Muito Satisfeito,App,4.3,Não Saudavel,25-34,0,Saudável
+1147,38,Masculino,111959.57,Porto Alegre,6,149.78,Produtos Alimenticios,Não,Insatisfeito,App,4.4,Não Saudavel,35-44,2,Saudável
+1148,53,Outro,40906.11,Goiânia,9,197.05,Produtos Alimenticios,Não,Insatisfeito,App,0.9,Não Saudavel,45-54,1,Saudável
+1149,41,Outro,118169.6,Salvador,7,72.24,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,4.3,Saudavel,35-44,3,Não Saudável
+1150,39,Masculino,31197.94,Porto Alegre,3,221.09,Produtos Alimenticios,Não,Insatisfeito,Loja Física,2.0,Não Saudavel,35-44,2,Saudável
+1151,40,Feminino,20642.38,Brasília,6,157.27,Produtos Alimenticios,Sim,Satisfeito,Loja Física,2.1,Saudavel,35-44,0,Saudável
+1152,69,Feminino,48929.7,Brasília,10,23.38,Produtos Alimenticios,Sim,Satisfeito,Loja Física,3.0,Saudavel,65+,3,Não Saudável
+1153,50,Feminino,100532.27,Salvador,10,30.38,Produtos Alimenticios,Sim,Muito Insatisfeito,App,4.4,Não Saudavel,45-54,3,Não Saudável
+1154,69,Masculino,56979.01,Brasília,4,152.04,Produtos Alimenticios,Não,Satisfeito,Online,4.7,Saudavel,65+,2,Saudável
+1155,50,Masculino,117330.44,Brasília,12,291.18,Produtos Alimenticios,Sim,Satisfeito,Loja Física,3.0,Saudavel,45-54,1,Saudável
+1156,27,Outro,33305.61,Goiânia,12,204.5,Produtos Alimenticios,Sim,Muito Satisfeito,Online,1.5,Saudavel,25-34,0,Saudável
+1157,38,Outro,54781.68,Salvador,13,58.87,Produtos Alimenticios,Sim,Muito Satisfeito,App,3.0,Saudavel,35-44,0,Saudável
+1158,58,Masculino,114441.12,Goiânia,4,119.21,Produtos Alimenticios,Sim,Muito Insatisfeito,Online,2.3,Não Saudavel,55-64,3,Não Saudável
+1159,21,Feminino,79424.73,Brasília,2,264.15,Produtos Alimenticios,Não,Muito Insatisfeito,Online,2.8,Não Saudavel,18-24,2,Saudável
+1160,55,Outro,82095.5,Porto Alegre,5,187.67,Produtos Alimenticios,Sim,Neutro,App,0.9,Não Saudavel,55-64,3,Não Saudável
+1161,47,Feminino,25335.74,Rio de Janeiro,15,29.94,Produtos Alimenticios,Sim,Satisfeito,App,2.2,Saudavel,45-54,0,Saudável
+1162,41,Feminino,25011.86,Goiânia,4,127.77,Produtos Alimenticios,Sim,Muito Insatisfeito,Loja Física,4.8,Saudavel,35-44,2,Saudável
+1163,38,Outro,49624.19,São Paulo,4,111.12,Produtos Alimenticios,Sim,Insatisfeito,Loja Física,0.2,Saudavel,35-44,3,Não Saudável
+1164,44,Masculino,91855.52,São Paulo,10,134.23,Produtos Alimenticios,Não,Muito Insatisfeito,Online,0.2,Saudavel,35-44,3,Não Saudável
+1165,50,Outro,34846.52,Porto Alegre,13,144.15,Produtos Alimenticios,Sim,Neutro,Loja Física,2.3,Não Saudavel,45-54,0,Saudável
+1166,29,Feminino,77673.32,Belo Horizonte,11,157.07,Produtos Alimenticios,Não,Muito Insatisfeito,App,3.0,Não Saudavel,25-34,0,Saudável
+1167,22,Outro,96588.74,Fortaleza,5,252.76,Produtos Alimenticios,Não,Satisfeito,Online,4.6,Saudavel,18-24,2,Saudável
+1168,55,Outro,85511.23,Goiânia,1,103.59,Produtos Alimenticios,Sim,Muito Insatisfeito,App,1.5,Saudavel,55-64,3,Não Saudável
+1169,43,Feminino,107642.63,Recife,14,169.21,Produtos Alimenticios,Sim,Muito Satisfeito,App,0.8,Saudavel,35-44,1,Saudável
+1170,28,Masculino,61943.06,Goiânia,5,155.11,Produtos Alimenticios,Não,Neutro,App,4.0,Não Saudavel,25-34,2,Saudável
+1171,62,Feminino,76326.24,Fortaleza,8,149.2,Produtos Alimenticios,Não,Insatisfeito,App,3.3,Não Saudavel,55-64,3,Não Saudável
+1172,42,Masculino,38611.59,Recife,11,144.81,Produtos Alimenticios,Sim,Muito Insatisfeito,Loja Física,3.0,Não Saudavel,35-44,0,Saudável
+1173,67,Masculino,97484.52,Porto Alegre,15,165.98,Produtos Alimenticios,Não,Muito Insatisfeito,Online,3.6,Não Saudavel,65+,1,Saudável
+1174,36,Masculino,56198.23,Brasília,4,228.52,Produtos Alimenticios,Não,Insatisfeito,Online,0.7,Saudavel,35-44,2,Saudável
+1175,45,Feminino,79851.08,Porto Alegre,5,27.2,Produtos Alimenticios,Sim,Muito Satisfeito,App,1.5,Saudavel,45-54,3,Não Saudável
+1176,27,Outro,82125.1,Fortaleza,6,195.47,Produtos Alimenticios,Não,Neutro,Online,3.4,Saudavel,25-34,2,Saudável
+1177,38,Outro,63705.92,Salvador,1,178.03,Produtos Alimenticios,Não,Neutro,Loja Física,3.3,Saudavel,35-44,2,Saudável
+1178,33,Outro,74450.82,Brasília,15,69.76,Produtos Alimenticios,Não,Muito Satisfeito,Online,0.4,Não Saudavel,25-34,0,Saudável
+1179,26,Feminino,46359.25,Goiânia,13,224.7,Produtos Alimenticios,Sim,Insatisfeito,App,2.6,Saudavel,25-34,0,Saudável
+1180,25,Feminino,29137.49,Goiânia,10,270.0,Produtos Alimenticios,Sim,Satisfeito,Online,1.6,Saudavel,25-34,0,Saudável
+1181,28,Outro,20784.33,Salvador,14,261.04,Produtos Alimenticios,Não,Satisfeito,Loja Física,5.0,Não Saudavel,25-34,0,Saudável
+1182,34,Feminino,80048.87,Belo Horizonte,6,213.56,Produtos Alimenticios,Sim,Neutro,App,4.4,Não Saudavel,25-34,2,Saudável
+1183,70,Masculino,57921.1,Porto Alegre,11,121.97,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,0.4,Não Saudavel,65+,3,Não Saudável
+1184,43,Feminino,118868.16,Belo Horizonte,7,32.2,Produtos Alimenticios,Sim,Muito Insatisfeito,Online,0.5,Não Saudavel,35-44,3,Não Saudável
+1185,32,Feminino,56306.31,Curitiba,10,257.18,Produtos Alimenticios,Não,Satisfeito,Online,2.3,Não Saudavel,25-34,1,Saudável
+1186,38,Masculino,114571.36,Goiânia,12,247.81,Produtos Alimenticios,Não,Satisfeito,Online,2.7,Não Saudavel,35-44,1,Saudável
+1187,50,Outro,69762.73,Porto Alegre,4,174.25,Produtos Alimenticios,Não,Insatisfeito,Online,4.8,Não Saudavel,45-54,2,Saudável
+1188,27,Outro,31947.09,Goiânia,1,45.13,Produtos Alimenticios,Não,Insatisfeito,Online,1.2,Saudavel,25-34,3,Não Saudável
+1189,57,Outro,31088.9,Belo Horizonte,5,209.5,Produtos Alimenticios,Não,Satisfeito,Online,2.8,Não Saudavel,55-64,2,Saudável
+1190,58,Feminino,31354.08,Fortaleza,7,148.03,Produtos Alimenticios,Não,Satisfeito,Loja Física,0.6,Saudavel,55-64,3,Não Saudável
+1191,47,Outro,52519.77,Fortaleza,2,68.6,Produtos Alimenticios,Não,Neutro,Online,4.3,Saudavel,45-54,2,Saudável
+1192,45,Masculino,101484.37,Salvador,6,91.19,Produtos Alimenticios,Sim,Neutro,App,0.3,Saudavel,45-54,3,Não Saudável
+1193,52,Masculino,103754.72,São Paulo,15,258.21,Produtos Alimenticios,Não,Muito Insatisfeito,Online,1.8,Saudavel,45-54,1,Saudável
+1194,37,Masculino,109458.06,Porto Alegre,6,118.23,Produtos Alimenticios,Não,Satisfeito,Loja Física,1.2,Saudavel,35-44,3,Não Saudável
+1195,34,Feminino,81646.34,Belo Horizonte,10,143.03,Produtos Alimenticios,Sim,Neutro,Online,4.5,Saudavel,25-34,0,Saudável
+1196,18,Masculino,48199.37,Brasília,14,60.87,Produtos Alimenticios,Não,Muito Insatisfeito,Online,0.9,Não Saudavel,18-24,0,Saudável
+1197,29,Outro,44641.25,Brasília,15,241.91,Produtos Alimenticios,Sim,Muito Insatisfeito,Online,0.2,Não Saudavel,25-34,1,Saudável
+1198,55,Outro,114646.83,Rio de Janeiro,15,124.74,Produtos Alimenticios,Não,Muito Satisfeito,Online,2.9,Saudavel,55-64,1,Saudável
+1199,41,Masculino,36729.99,Porto Alegre,6,25.69,Produtos Alimenticios,Sim,Satisfeito,App,0.4,Não Saudavel,35-44,3,Não Saudável
+1200,70,Outro,83311.1,Belo Horizonte,3,99.67,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,4.3,Saudavel,65+,3,Não Saudável
+1201,20,Feminino,96959.29,Rio de Janeiro,7,245.83,Produtos Alimenticios,Não,Muito Insatisfeito,App,2.2,Não Saudavel,18-24,2,Saudável
+1202,44,Outro,94231.77,Belo Horizonte,10,269.43,Produtos Alimenticios,Sim,Satisfeito,App,2.3,Saudavel,35-44,1,Saudável
+1203,58,Masculino,84414.07,Goiânia,4,140.45,Produtos Alimenticios,Sim,Neutro,Online,4.0,Saudavel,55-64,2,Saudável
+1204,62,Masculino,104263.19,Porto Alegre,2,194.08,Produtos Alimenticios,Não,Muito Insatisfeito,Online,0.5,Não Saudavel,55-64,3,Não Saudável
+1205,55,Feminino,104943.89,Rio de Janeiro,5,285.89,Produtos Alimenticios,Não,Neutro,Online,0.4,Não Saudavel,55-64,1,Saudável
+1206,64,Feminino,107883.55,Brasília,4,44.23,Produtos Alimenticios,Sim,Muito Satisfeito,App,3.2,Saudavel,55-64,3,Não Saudável
+1207,41,Feminino,95018.31,Brasília,14,59.72,Produtos Alimenticios,Não,Neutro,App,1.3,Não Saudavel,35-44,3,Não Saudável
+1208,38,Feminino,98595.6,São Paulo,12,178.87,Produtos Alimenticios,Não,Insatisfeito,Loja Física,1.0,Não Saudavel,35-44,1,Saudável
+1209,55,Masculino,94124.55,Fortaleza,7,36.78,Produtos Alimenticios,Sim,Muito Satisfeito,Online,1.0,Não Saudavel,55-64,3,Não Saudável
+1210,44,Masculino,86830.5,Curitiba,14,145.92,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,0.6,Saudavel,35-44,1,Saudável
+1211,50,Masculino,38375.28,Porto Alegre,12,235.51,Produtos Alimenticios,Sim,Insatisfeito,Loja Física,0.8,Saudavel,45-54,1,Saudável
+1212,63,Outro,103950.96,Salvador,8,255.57,Produtos Alimenticios,Não,Neutro,App,2.9,Não Saudavel,55-64,1,Saudável
+1213,40,Masculino,50340.31,Belo Horizonte,4,99.97,Produtos Alimenticios,Não,Insatisfeito,App,3.7,Saudavel,35-44,2,Saudável
+1214,36,Masculino,22185.92,Brasília,11,256.59,Produtos Alimenticios,Sim,Muito Satisfeito,Online,0.5,Não Saudavel,35-44,1,Saudável
+1215,31,Outro,78772.62,Belo Horizonte,15,249.06,Produtos Alimenticios,Sim,Muito Insatisfeito,App,2.8,Saudavel,25-34,1,Saudável
+1216,68,Feminino,76818.16,Belo Horizonte,4,196.87,Produtos Alimenticios,Não,Satisfeito,Loja Física,0.9,Saudavel,65+,3,Não Saudável
+1217,29,Feminino,31321.12,Belo Horizonte,13,223.73,Produtos Alimenticios,Sim,Satisfeito,Online,1.4,Saudavel,25-34,0,Saudável
+1218,44,Feminino,43658.88,Rio de Janeiro,8,137.53,Produtos Alimenticios,Não,Satisfeito,Online,3.1,Saudavel,35-44,0,Saudável
+1219,21,Outro,35011.79,Recife,7,127.19,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,3.3,Não Saudavel,18-24,0,Saudável
+1220,35,Masculino,109155.88,Porto Alegre,5,232.71,Produtos Alimenticios,Não,Satisfeito,App,2.4,Saudavel,35-44,2,Saudável
+1221,51,Outro,88865.33,Belo Horizonte,4,44.29,Produtos Alimenticios,Não,Satisfeito,App,0.8,Não Saudavel,45-54,3,Não Saudável
+1222,58,Outro,35395.89,Brasília,14,218.15,Produtos Alimenticios,Não,Neutro,Online,2.8,Saudavel,55-64,1,Saudável
+1223,21,Outro,59602.62,Curitiba,4,276.96,Produtos Alimenticios,Não,Insatisfeito,Online,5.0,Não Saudavel,18-24,2,Saudável
+1224,45,Outro,50747.29,Rio de Janeiro,3,134.45,Produtos Alimenticios,Sim,Muito Insatisfeito,Online,3.7,Não Saudavel,45-54,2,Saudável
+1225,52,Outro,79277.13,Rio de Janeiro,6,32.11,Produtos Alimenticios,Sim,Insatisfeito,Loja Física,4.4,Não Saudavel,45-54,3,Não Saudável
+1226,27,Outro,45557.07,Fortaleza,3,191.83,Produtos Alimenticios,Sim,Muito Insatisfeito,App,1.7,Saudavel,25-34,2,Saudável
+1227,39,Masculino,76157.45,Fortaleza,13,251.75,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,1.0,Não Saudavel,35-44,1,Saudável
+1228,57,Masculino,95520.31,Salvador,12,99.77,Produtos Alimenticios,Sim,Muito Satisfeito,Online,1.8,Saudavel,55-64,3,Não Saudável
+1229,53,Feminino,40383.95,Brasília,6,46.17,Produtos Alimenticios,Não,Muito Satisfeito,App,2.3,Saudavel,45-54,3,Não Saudável
+1230,33,Masculino,105279.16,Brasília,10,64.99,Produtos Alimenticios,Sim,Muito Satisfeito,App,2.7,Saudavel,25-34,3,Não Saudável
+1231,66,Masculino,104325.26,Rio de Janeiro,15,42.71,Produtos Alimenticios,Não,Satisfeito,Online,1.8,Não Saudavel,65+,3,Não Saudável
+1232,38,Masculino,93662.85,Fortaleza,3,169.05,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,3.7,Saudavel,35-44,2,Saudável
+1233,37,Masculino,46514.17,Salvador,10,198.06,Produtos Alimenticios,Não,Insatisfeito,App,3.5,Saudavel,35-44,0,Saudável
+1234,52,Feminino,32468.24,Brasília,9,217.69,Produtos Alimenticios,Não,Satisfeito,Online,1.0,Não Saudavel,45-54,1,Saudável
+1235,21,Masculino,69339.69,Brasília,8,110.21,Produtos Alimenticios,Sim,Satisfeito,Online,4.0,Não Saudavel,18-24,0,Saudável
+1236,31,Masculino,66662.44,Fortaleza,3,68.21,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,4.1,Saudavel,25-34,2,Saudável
+1237,21,Feminino,92307.32,Curitiba,8,72.91,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,4.3,Saudavel,18-24,0,Saudável
+1238,48,Outro,71122.8,Rio de Janeiro,9,179.33,Produtos Alimenticios,Sim,Insatisfeito,Online,4.6,Não Saudavel,45-54,2,Saudável
+1239,60,Outro,76960.17,Goiânia,8,236.68,Produtos Alimenticios,Não,Neutro,Online,2.0,Saudavel,55-64,1,Saudável
+1240,57,Feminino,33377.19,Brasília,14,205.61,Produtos Alimenticios,Sim,Neutro,Online,4.7,Não Saudavel,55-64,1,Saudável
+1241,69,Feminino,28023.33,Belo Horizonte,3,227.3,Produtos Alimenticios,Não,Insatisfeito,App,2.3,Saudavel,65+,2,Saudável
+1242,59,Masculino,96381.9,Fortaleza,7,118.84,Produtos Alimenticios,Sim,Satisfeito,Online,0.2,Saudavel,55-64,3,Não Saudável
+1243,41,Masculino,44931.47,Rio de Janeiro,14,258.69,Produtos Alimenticios,Sim,Muito Satisfeito,App,2.7,Saudavel,35-44,1,Saudável
+1244,61,Outro,59679.34,Porto Alegre,14,284.88,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,4.3,Não Saudavel,55-64,1,Saudável
+1245,22,Outro,87394.38,Belo Horizonte,8,114.42,Produtos Alimenticios,Não,Neutro,App,1.7,Não Saudavel,18-24,0,Saudável
+1246,54,Feminino,60312.61,Curitiba,15,237.67,Produtos Alimenticios,Não,Neutro,Online,1.8,Não Saudavel,45-54,1,Saudável
+1247,41,Feminino,37188.9,São Paulo,8,138.67,Produtos Alimenticios,Sim,Insatisfeito,Online,0.9,Saudavel,35-44,0,Saudável
+1248,28,Outro,73370.27,Porto Alegre,15,69.82,Produtos Alimenticios,Sim,Insatisfeito,App,1.0,Saudavel,25-34,0,Saudável
+1249,40,Outro,46253.13,Recife,13,157.94,Produtos Alimenticios,Não,Insatisfeito,App,0.6,Não Saudavel,35-44,0,Saudável
+1250,32,Masculino,119354.43,Fortaleza,11,279.58,Produtos Alimenticios,Não,Muito Insatisfeito,App,3.6,Saudavel,25-34,1,Saudável
+1251,24,Feminino,52527.02,Belo Horizonte,9,194.77,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,2.5,Saudavel,18-24,0,Saudável
+1252,38,Masculino,104412.97,Porto Alegre,6,189.57,Produtos Alimenticios,Não,Satisfeito,Online,3.7,Saudavel,35-44,2,Saudável
+1253,49,Outro,48726.98,Curitiba,8,225.7,Produtos Alimenticios,Não,Satisfeito,App,4.9,Não Saudavel,45-54,2,Saudável
+1254,52,Outro,74057.47,Recife,9,213.45,Produtos Alimenticios,Não,Satisfeito,Online,3.3,Saudavel,45-54,1,Saudável
+1255,61,Masculino,44814.71,Goiânia,5,223.17,Produtos Alimenticios,Não,Insatisfeito,App,4.0,Não Saudavel,55-64,2,Saudável
+1256,29,Feminino,59093.43,Fortaleza,10,74.27,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,2.2,Saudavel,25-34,0,Saudável
+1257,62,Outro,87839.84,Rio de Janeiro,3,148.7,Produtos Alimenticios,Não,Insatisfeito,Online,1.8,Saudavel,55-64,3,Não Saudável
+1258,62,Masculino,66164.86,Porto Alegre,12,59.13,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,0.2,Saudavel,55-64,3,Não Saudável
+1259,57,Outro,29067.77,Salvador,5,79.15,Produtos Alimenticios,Sim,Satisfeito,Loja Física,3.2,Não Saudavel,55-64,3,Não Saudável
+1260,53,Outro,53647.18,Porto Alegre,14,222.42,Produtos Alimenticios,Sim,Neutro,Online,4.9,Não Saudavel,45-54,1,Saudável
+1261,33,Feminino,58283.39,São Paulo,5,185.34,Produtos Alimenticios,Não,Muito Satisfeito,Online,1.2,Não Saudavel,25-34,2,Saudável
+1262,23,Feminino,41529.02,Recife,15,156.11,Produtos Alimenticios,Não,Muito Insatisfeito,App,0.7,Saudavel,18-24,0,Saudável
+1263,37,Outro,20274.46,Salvador,2,88.88,Produtos Alimenticios,Não,Muito Insatisfeito,App,1.1,Não Saudavel,35-44,3,Não Saudável
+1264,44,Outro,67475.13,Salvador,14,268.58,Produtos Alimenticios,Sim,Satisfeito,App,1.6,Não Saudavel,35-44,1,Saudável
+1265,32,Feminino,89074.23,Goiânia,14,86.7,Produtos Alimenticios,Sim,Insatisfeito,Online,4.0,Saudavel,25-34,0,Saudável
+1266,65,Masculino,39245.97,Rio de Janeiro,7,30.31,Produtos Alimenticios,Sim,Satisfeito,Online,0.3,Não Saudavel,65+,3,Não Saudável
+1267,68,Outro,85315.84,Salvador,13,190.72,Produtos Alimenticios,Sim,Muito Satisfeito,Online,1.0,Não Saudavel,65+,1,Saudável
+1268,60,Outro,23695.71,Porto Alegre,10,298.24,Produtos Alimenticios,Não,Muito Insatisfeito,App,3.9,Saudavel,55-64,1,Saudável
+1269,30,Masculino,53790.66,Salvador,14,192.9,Produtos Alimenticios,Não,Insatisfeito,Online,2.4,Não Saudavel,25-34,0,Saudável
+1270,66,Outro,44056.9,Belo Horizonte,10,30.65,Produtos Alimenticios,Não,Neutro,Loja Física,0.5,Saudavel,65+,3,Não Saudável
+1271,27,Outro,95014.97,Rio de Janeiro,15,169.3,Produtos Alimenticios,Não,Neutro,App,4.2,Saudavel,25-34,0,Saudável
+1272,32,Masculino,66456.58,Belo Horizonte,4,28.88,Produtos Alimenticios,Sim,Insatisfeito,Loja Física,0.7,Não Saudavel,25-34,3,Não Saudável
+1273,38,Masculino,22973.9,Salvador,4,107.86,Produtos Alimenticios,Sim,Neutro,App,2.9,Saudavel,35-44,2,Saudável
+1274,36,Outro,111969.0,Brasília,2,118.84,Produtos Alimenticios,Sim,Insatisfeito,Loja Física,0.4,Não Saudavel,35-44,3,Não Saudável
+1275,58,Outro,36229.79,Fortaleza,5,172.11,Produtos Alimenticios,Não,Muito Insatisfeito,App,1.0,Não Saudavel,55-64,3,Não Saudável
+1276,53,Masculino,35744.78,Goiânia,9,288.92,Produtos Alimenticios,Não,Satisfeito,Loja Física,1.4,Não Saudavel,45-54,1,Saudável
+1277,45,Feminino,45259.73,Porto Alegre,15,280.69,Produtos Alimenticios,Sim,Satisfeito,Loja Física,2.4,Não Saudavel,45-54,1,Saudável
+1278,62,Feminino,73412.12,Curitiba,4,155.62,Produtos Alimenticios,Sim,Muito Insatisfeito,App,2.0,Não Saudavel,55-64,3,Não Saudável
+1279,23,Masculino,53288.78,Porto Alegre,13,86.65,Produtos Alimenticios,Sim,Muito Insatisfeito,Online,2.8,Saudavel,18-24,0,Saudável
+1280,55,Feminino,55664.78,Rio de Janeiro,6,215.44,Produtos Alimenticios,Não,Insatisfeito,Online,0.3,Não Saudavel,55-64,1,Saudável
+1281,57,Masculino,108565.42,Goiânia,8,60.57,Produtos Alimenticios,Sim,Muito Insatisfeito,Online,3.7,Não Saudavel,55-64,3,Não Saudável
+1282,52,Feminino,83533.54,Porto Alegre,8,101.1,Produtos Alimenticios,Sim,Satisfeito,Loja Física,4.0,Não Saudavel,45-54,3,Não Saudável
+1283,19,Outro,75799.25,Goiânia,3,142.64,Produtos Alimenticios,Não,Neutro,Loja Física,3.1,Saudavel,18-24,2,Saudável
+1284,65,Masculino,61005.45,Recife,7,69.98,Produtos Alimenticios,Sim,Muito Insatisfeito,Online,0.4,Saudavel,65+,3,Não Saudável
+1285,30,Outro,83261.8,Belo Horizonte,13,293.73,Produtos Alimenticios,Sim,Satisfeito,App,0.8,Não Saudavel,25-34,1,Saudável
+1286,44,Outro,80457.15,Porto Alegre,6,200.59,Produtos Alimenticios,Sim,Satisfeito,Online,1.1,Não Saudavel,35-44,2,Saudável
+1287,66,Masculino,65939.9,Fortaleza,12,116.07,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,0.6,Saudavel,65+,3,Não Saudável
+1288,67,Feminino,95857.25,Fortaleza,2,154.56,Produtos Alimenticios,Não,Muito Insatisfeito,Loja Física,0.4,Saudavel,65+,3,Não Saudável
+1289,29,Feminino,20851.9,São Paulo,11,50.52,Produtos Alimenticios,Não,Muito Insatisfeito,App,1.3,Não Saudavel,25-34,0,Saudável
+1290,21,Outro,111566.46,Brasília,8,148.48,Produtos Alimenticios,Sim,Neutro,App,3.8,Não Saudavel,18-24,2,Saudável
+1291,57,Feminino,31024.71,São Paulo,12,60.73,Produtos Alimenticios,Não,Insatisfeito,App,0.5,Saudavel,55-64,3,Não Saudável
+1292,67,Outro,106407.85,Salvador,2,145.81,Produtos Alimenticios,Não,Satisfeito,Online,2.8,Não Saudavel,65+,3,Não Saudável
+1293,57,Masculino,92145.38,Goiânia,4,262.46,Produtos Alimenticios,Não,Neutro,Loja Física,3.6,Saudavel,55-64,2,Saudável
+1294,60,Outro,24215.38,São Paulo,2,59.12,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,4.0,Não Saudavel,55-64,3,Não Saudável
+1295,64,Masculino,41400.94,Curitiba,12,228.84,Produtos Alimenticios,Não,Muito Satisfeito,Online,1.4,Saudavel,55-64,1,Saudável
+1296,48,Feminino,49756.77,Rio de Janeiro,8,73.76,Produtos Alimenticios,Sim,Satisfeito,App,1.7,Não Saudavel,45-54,3,Não Saudável
+1297,19,Feminino,71770.74,Curitiba,14,264.91,Produtos Alimenticios,Não,Muito Satisfeito,Online,3.5,Saudavel,18-24,0,Saudável
+1298,34,Masculino,35968.15,Goiânia,7,180.2,Produtos Alimenticios,Não,Muito Insatisfeito,Online,1.1,Não Saudavel,25-34,0,Saudável
+1299,41,Feminino,53804.77,Brasília,14,296.75,Produtos Alimenticios,Sim,Insatisfeito,App,1.8,Não Saudavel,35-44,1,Saudável
+1300,22,Feminino,100337.7,Rio de Janeiro,10,44.62,Produtos Alimenticios,Sim,Muito Insatisfeito,App,2.1,Não Saudavel,18-24,0,Saudável
+1301,22,Masculino,22527.27,Goiânia,5,130.97,Produtos Alimenticios,Sim,Insatisfeito,Online,0.2,Não Saudavel,18-24,0,Saudável
+1302,69,Masculino,88272.73,Recife,5,264.0,Produtos Alimenticios,Sim,Satisfeito,Loja Física,0.2,Saudavel,65+,1,Saudável
+1303,59,Feminino,23029.3,Goiânia,5,87.98,Produtos Alimenticios,Não,Satisfeito,Loja Física,3.7,Saudavel,55-64,3,Não Saudável
+1304,23,Feminino,55184.6,Curitiba,10,267.38,Produtos Alimenticios,Sim,Neutro,Online,4.7,Não Saudavel,18-24,0,Saudável
+1305,18,Masculino,61641.88,Rio de Janeiro,7,44.21,Produtos Alimenticios,Sim,Insatisfeito,Online,4.2,Não Saudavel,18-24,0,Saudável
+1306,68,Outro,40069.88,Goiânia,7,191.1,Produtos Alimenticios,Sim,Muito Insatisfeito,Online,1.7,Saudavel,65+,3,Não Saudável
+1307,36,Outro,50558.73,Brasília,7,48.48,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,0.7,Não Saudavel,35-44,3,Não Saudável
+1308,34,Feminino,24147.48,Goiânia,7,165.52,Produtos Alimenticios,Não,Insatisfeito,App,0.7,Não Saudavel,25-34,0,Saudável
+1309,67,Masculino,91269.39,São Paulo,9,95.49,Produtos Alimenticios,Não,Neutro,App,3.1,Não Saudavel,65+,3,Não Saudável
+1310,45,Feminino,77608.2,Fortaleza,7,231.26,Produtos Alimenticios,Não,Satisfeito,Loja Física,0.8,Não Saudavel,45-54,1,Saudável
+1311,27,Feminino,54422.42,Brasília,9,58.08,Produtos Alimenticios,Não,Neutro,Online,4.4,Saudavel,25-34,0,Saudável
+1312,22,Feminino,41525.18,Recife,15,77.51,Produtos Alimenticios,Sim,Insatisfeito,App,0.3,Saudavel,18-24,0,Saudável
+1313,31,Masculino,93376.01,Rio de Janeiro,12,90.05,Produtos Alimenticios,Sim,Neutro,Loja Física,2.3,Não Saudavel,25-34,0,Saudável
+1314,63,Feminino,95636.78,São Paulo,8,94.18,Produtos Alimenticios,Não,Muito Satisfeito,App,3.4,Saudavel,55-64,3,Não Saudável
+1315,27,Feminino,117628.09,Fortaleza,8,158.97,Produtos Alimenticios,Sim,Insatisfeito,App,3.1,Saudavel,25-34,2,Saudável
+1316,63,Feminino,63549.72,São Paulo,7,143.24,Produtos Alimenticios,Não,Insatisfeito,Loja Física,4.6,Saudavel,55-64,2,Saudável
+1317,58,Feminino,34144.49,Brasília,8,271.33,Produtos Alimenticios,Não,Neutro,Loja Física,1.6,Saudavel,55-64,1,Saudável
+1318,50,Feminino,78322.05,Salvador,5,134.57,Produtos Alimenticios,Não,Satisfeito,Loja Física,1.4,Saudavel,45-54,3,Não Saudável
+1319,34,Feminino,20221.98,Recife,1,232.63,Produtos Alimenticios,Não,Muito Satisfeito,App,3.6,Saudavel,25-34,2,Saudável
+1320,51,Feminino,34984.86,Rio de Janeiro,10,120.01,Produtos Alimenticios,Não,Muito Insatisfeito,Loja Física,2.4,Saudavel,45-54,0,Saudável
+1321,70,Feminino,84649.81,Curitiba,13,233.5,Produtos Alimenticios,Não,Satisfeito,Online,0.9,Saudavel,65+,1,Saudável
+1322,68,Feminino,88323.56,Curitiba,3,175.3,Produtos Alimenticios,Sim,Insatisfeito,App,2.8,Saudavel,65+,3,Não Saudável
+1323,54,Masculino,109431.16,São Paulo,8,106.27,Produtos Alimenticios,Não,Insatisfeito,App,4.3,Não Saudavel,45-54,3,Não Saudável
+1324,19,Feminino,88175.01,Rio de Janeiro,3,193.04,Produtos Alimenticios,Sim,Muito Insatisfeito,Loja Física,2.7,Saudavel,18-24,2,Saudável
+1325,68,Masculino,86763.42,Salvador,8,67.76,Produtos Alimenticios,Sim,Muito Satisfeito,Loja Física,3.9,Saudavel,65+,3,Não Saudável
+1326,68,Outro,114249.84,Brasília,14,122.79,Produtos Alimenticios,Sim,Muito Satisfeito,App,4.7,Saudavel,65+,1,Saudável
+1327,18,Outro,101685.3,Recife,4,122.95,Produtos Alimenticios,Sim,Satisfeito,Online,4.2,Saudavel,18-24,2,Saudável
+1328,55,Feminino,72814.72,Goiânia,9,40.43,Produtos Alimenticios,Sim,Satisfeito,Loja Física,2.8,Saudavel,55-64,3,Não Saudável
+1329,27,Masculino,28402.18,Salvador,4,171.61,Produtos Alimenticios,Sim,Muito Satisfeito,App,5.0,Saudavel,25-34,2,Saudável
+1330,53,Masculino,86712.88,Recife,10,257.39,Produtos Alimenticios,Não,Neutro,Loja Física,3.0,Não Saudavel,45-54,1,Saudável
+1331,23,Feminino,98728.79,Curitiba,1,269.93,Produtos Alimenticios,Não,Insatisfeito,Online,2.2,Não Saudavel,18-24,2,Saudável
+1332,67,Masculino,109173.5,Brasília,4,290.78,Produtos Alimenticios,Sim,Insatisfeito,Loja Física,2.9,Saudavel,65+,1,Saudável
+1333,44,Outro,116274.34,Goiânia,14,229.58,Produtos Alimenticios,Não,Muito Insatisfeito,Online,2.2,Não Saudavel,35-44,1,Saudável
+1334,61,Feminino,61575.14,Recife,1,120.37,Produtos Alimenticios,Não,Muito Insatisfeito,Loja Física,0.8,Não Saudavel,55-64,3,Não Saudável
+1335,34,Masculino,51501.87,Salvador,5,91.93,Produtos Alimenticios,Não,Neutro,Loja Física,2.2,Não Saudavel,25-34,0,Saudável
+1336,66,Outro,59248.5,São Paulo,2,31.72,Produtos Alimenticios,Não,Muito Insatisfeito,App,4.4,Não Saudavel,65+,3,Não Saudável
+1337,29,Outro,97407.42,Curitiba,13,176.9,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,2.9,Saudavel,25-34,0,Saudável
+1338,47,Outro,71896.27,Salvador,13,245.46,Produtos Alimenticios,Sim,Satisfeito,App,2.4,Saudavel,45-54,1,Saudável
+1339,49,Feminino,38754.99,Belo Horizonte,15,255.82,Produtos Alimenticios,Sim,Muito Insatisfeito,App,4.8,Saudavel,45-54,1,Saudável
+1340,63,Masculino,65445.58,Fortaleza,13,72.08,Produtos Alimenticios,Sim,Satisfeito,App,2.2,Não Saudavel,55-64,3,Não Saudável
+1341,62,Feminino,102786.57,Goiânia,5,203.6,Produtos Alimenticios,Sim,Satisfeito,Loja Física,3.5,Saudavel,55-64,2,Saudável
+1342,52,Feminino,27773.26,Porto Alegre,2,249.67,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,1.5,Não Saudavel,45-54,2,Saudável
+1343,25,Masculino,116230.32,Curitiba,12,159.51,Produtos Alimenticios,Sim,Insatisfeito,App,0.4,Saudavel,25-34,1,Saudável
+1344,46,Feminino,109927.43,Recife,3,112.66,Produtos Alimenticios,Não,Neutro,Online,4.5,Saudavel,45-54,2,Saudável
+1345,20,Outro,40307.37,Recife,1,182.26,Produtos Alimenticios,Não,Muito Insatisfeito,Online,2.9,Não Saudavel,18-24,2,Saudável
+1346,29,Outro,108010.29,Brasília,4,52.76,Produtos Alimenticios,Não,Insatisfeito,App,0.2,Saudavel,25-34,3,Não Saudável
+1347,30,Outro,59195.63,Porto Alegre,3,198.79,Produtos Alimenticios,Sim,Neutro,Loja Física,2.2,Saudavel,25-34,2,Saudável
+1348,54,Feminino,72960.92,Belo Horizonte,12,85.0,Produtos Alimenticios,Sim,Insatisfeito,Loja Física,1.7,Saudavel,45-54,3,Não Saudável
+1349,28,Feminino,115019.48,Porto Alegre,2,217.64,Produtos Alimenticios,Não,Neutro,App,2.1,Saudavel,25-34,2,Saudável
+1350,56,Outro,66064.46,Porto Alegre,13,48.46,Produtos Alimenticios,Sim,Satisfeito,Loja Física,2.0,Não Saudavel,55-64,3,Não Saudável
+1351,68,Feminino,115850.32,Porto Alegre,13,83.19,Produtos Alimenticios,Não,Insatisfeito,App,2.0,Saudavel,65+,3,Não Saudável
+1352,25,Feminino,119849.33,Rio de Janeiro,6,188.08,Produtos Alimenticios,Não,Neutro,App,1.7,Saudavel,25-34,2,Saudável
+1353,48,Outro,21311.94,Belo Horizonte,2,58.26,Produtos Alimenticios,Sim,Neutro,App,1.2,Não Saudavel,45-54,3,Não Saudável
+1354,41,Masculino,103829.94,Belo Horizonte,6,250.05,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,0.7,Saudavel,35-44,1,Saudável
+1355,30,Feminino,42368.28,Goiânia,10,107.93,Produtos Alimenticios,Sim,Insatisfeito,App,1.3,Saudavel,25-34,0,Saudável
+1356,20,Feminino,21466.7,Goiânia,11,188.89,Produtos Alimenticios,Sim,Muito Insatisfeito,App,1.8,Não Saudavel,18-24,0,Saudável
+1357,21,Feminino,94317.65,Fortaleza,12,244.47,Produtos Alimenticios,Não,Muito Satisfeito,Online,2.2,Saudavel,18-24,1,Saudável
+1358,61,Feminino,118184.76,Brasília,3,100.26,Produtos Alimenticios,Não,Muito Insatisfeito,Online,3.0,Saudavel,55-64,3,Não Saudável
+1359,53,Outro,95199.92,Brasília,4,164.83,Produtos Alimenticios,Não,Neutro,App,4.6,Não Saudavel,45-54,2,Saudável
+1360,45,Feminino,118332.45,Porto Alegre,3,251.7,Produtos Alimenticios,Sim,Muito Insatisfeito,Loja Física,0.6,Saudavel,45-54,2,Saudável
+1361,35,Feminino,59609.87,Recife,1,214.93,Produtos Alimenticios,Sim,Muito Satisfeito,Online,1.7,Não Saudavel,35-44,2,Saudável
+1362,21,Feminino,20868.54,Rio de Janeiro,2,243.35,Produtos Alimenticios,Não,Muito Satisfeito,Loja Física,0.4,Não Saudavel,18-24,2,Saudável
+1363,36,Feminino,94423.83,Recife,15,53.46,Produtos Alimenticios,Não,Muito Insatisfeito,App,3.3,Não Saudavel,35-44,0,Saudável
+1364,68,Feminino,100930.78,Curitiba,6,24.62,Produtos Alimenticios,Sim,Muito Insatisfeito,App,1.3,Não Saudavel,65+,3,Não Saudável
+1365,50,Feminino,95378.47,Salvador,9,244.2,Produtos Alimenticios,Sim,Neutro,Online,3.9,Saudavel,45-54,1,Saudável
+1366,57,Feminino,89599.8,Goiânia,10,72.95,Produtos Alimenticios,Não,Muito Insatisfeito,Online,3.9,Não Saudavel,55-64,3,Não Saudável
+1367,58,Feminino,40800.44,Curitiba,15,204.58,Produtos Alimenticios,Sim,Muito Insatisfeito,Online,1.9,Não Saudavel,55-64,1,Saudável
+1368,67,Feminino,31885.99,Curitiba,8,20.59,Produtos Alimenticios,Não,Neutro,Loja Física,4.0,Saudavel,65+,3,Não Saudável
+1369,32,Feminino,85594.11,Rio de Janeiro,11,95.72,Produtos Alimenticios,Não,Satisfeito,Online,2.0,Não Saudavel,25-34,0,Saudável
+1370,60,Outro,23207.55,Goiânia,3,194.52,Produtos Alimenticios,Sim,Muito Insatisfeito,App,1.8,Saudavel,55-64,2,Saudável
+1371,70,Feminino,51678.2,Curitiba,5,279.58,Produtos Alimenticios,Sim,Muito Insatisfeito,App,1.5,Não Saudavel,65+,1,Saudável
+1372,60,Feminino,79769.16,Brasília,2,224.03,Produtos Alimenticios,Sim,Satisfeito,Online,1.1,Não Saudavel,55-64,2,Saudável
+1373,30,Feminino,80332.74,Porto Alegre,2,140.99,Produtos Alimenticios,Sim,Muito Insatisfeito,App,3.3,Não Saudavel,25-34,2,Saudável
+1374,28,Feminino,90051.64,Recife,7,178.76,Produtos Alimenticios,Sim,Satisfeito,Loja Física,4.2,Não Saudavel,25-34,2,Saudável

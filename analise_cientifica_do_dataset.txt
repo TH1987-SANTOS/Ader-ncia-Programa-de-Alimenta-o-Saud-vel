@@ -1,0 +1,131 @@
+=== ANÁLISE CIENTÍFICA DO DATASET ===
+
+1. CARACTERÍSTICAS GERAIS:
+   • Total de observações: 1,374
+   • Número de variáveis: 13
+   • Período de coleta: Não especificado
+   • Unidade de análise: Cliente individual
+
+2. ESTRUTURA DAS VARIÁVEIS:
+   • ID_Cliente: int64 (1374 valores únicos, 0 valores ausentes)
+   • Idade: int64 (53 valores únicos, 0 valores ausentes)
+   • Gênero: object (3 valores únicos, 0 valores ausentes)
+   • Renda_Anual (R$): float64 (1365 valores únicos, 0 valores ausentes)
+   • Cidade: object (10 valores únicos, 0 valores ausentes)
+   • Frequência_Compra: int64 (18 valores únicos, 0 valores ausentes)
+   • Valor_Médio_Compra (R$): float64 (1291 valores únicos, 0 valores ausentes)
+   • Categoria_Preferida: object (7 valores únicos, 0 valores ausentes)
+   • Participa_Programa: object (2 valores únicos, 0 valores ausentes)
+   • Feedback_Cliente: object (5 valores únicos, 0 valores ausentes)
+   • Canal_Preferred: object (3 valores únicos, 0 valores ausentes)
+   • Pontuação_Lealdade: float64 (93 valores únicos, 0 valores ausentes)
+   • Tipo_Produto: object (3 valores únicos, 0 valores ausentes)
+
+3. DISTRIBUIÇÃO DAS VARIÁVEIS CATEGÓRICAS:
+   Gênero:
+      - Feminino: 587 (42.7%)
+      - Masculino: 573 (41.7%)
+      - Outro: 214 (15.6%)
+
+   Cidade:
+      - Porto Alegre: 230 (16.7%)
+      - Belo Horizonte: 219 (15.9%)
+      - São Paulo: 203 (14.8%)
+      - Recife: 202 (14.7%)
+      - Rio de Janeiro: 200 (14.6%)
+      - Curitiba: 191 (13.9%)
+      - Goiânia: 38 (2.8%)
+      - Brasília: 35 (2.5%)
+      - Fortaleza: 28 (2.0%)
+      - Salvador: 28 (2.0%)
+
+   Categoria_Preferida:
+      - Produtos Alimenticios: 365 (26.6%)
+      - Eletrônicos: 186 (13.5%)
+      - Moda: 181 (13.2%)
+      - Beleza: 171 (12.4%)
+      - Esportes: 159 (11.6%)
+      - Livros: 158 (11.5%)
+      - Casa: 154 (11.2%)
+
+   Participa_Programa:
+      - Sim: 809 (58.9%)
+      - Não: 565 (41.1%)
+
+   Feedback_Cliente:
+      - Satisfeito: 450 (32.8%)
+      - Muito Satisfeito: 318 (23.1%)
+      - Neutro: 282 (20.5%)
+      - Insatisfeito: 210 (15.3%)
+      - Muito Insatisfeito: 114 (8.3%)
+
+   Canal_Preferred:
+      - Online: 560 (40.8%)
+      - App: 537 (39.1%)
+      - Loja Física: 277 (20.2%)
+
+   Tipo_Produto:
+      - Não se aplica: 1009 (73.4%)
+      - Saudavel: 186 (13.5%)
+      - Não Saudavel: 179 (13.0%)
+
+4. ESTATÍSTICAS DESCRITIVAS DAS VARIÁVEIS NUMÉRICAS:
+   Idade:
+      - Média: 43.74
+      - Mediana: 44.00
+      - Desvio padrão: 14.89
+      - Mínimo: 18.00
+      - Máximo: 70.00
+      - Quartil 25%: 31.00
+      - Quartil 75%: 56.00
+
+   Renda_Anual (R$):
+      - Média: 62679.80
+      - Mediana: 61216.12
+      - Desvio padrão: 22198.30
+      - Mínimo: 10000.00
+      - Máximo: 123862.15
+      - Quartil 25%: 47736.77
+      - Quartil 75%: 76726.74
+
+   Frequência_Compra:
+      - Média: 7.99
+      - Mediana: 8.00
+      - Desvio padrão: 3.26
+      - Mínimo: 1.00
+      - Máximo: 21.00
+      - Quartil 25%: 6.00
+      - Quartil 75%: 10.00
+
+   Valor_Médio_Compra (R$):
+      - Média: 151.92
+      - Mediana: 151.13
+      - Desvio padrão: 75.26
+      - Mínimo: 20.00
+      - Máximo: 367.21
+      - Quartil 25%: 93.91
+      - Quartil 75%: 205.57
+
+   Pontuação_Lealdade:
+      - Média: 2.38
+      - Mediana: 1.90
+      - Desvio padrão: 2.15
+      - Mínimo: 0.10
+      - Máximo: 31.40
+      - Quartil 25%: 1.00
+      - Quartil 75%: 3.20
+
+5. ANÁLISE DA VARIÁVEL DEPENDENTE (Participa_Programa):
+   • Sim: 809 (58.9%)
+   • Não: 565 (41.1%)
+
+   • Taxa de participação no programa: 58.9%
+
+6. ANÁLISE ESPECÍFICA - PRODUTOS ALIMENTÍCIOS:
+   • Total de clientes com preferência alimentícia: 365 (26.6%)
+   • Saudavel: 186 (51.0%)
+   • Não Saudavel: 179 (49.0%)
+
+   Participação no programa por tipo de produto alimentício:
+      - Saudavel: 52.7% participam do programa
+      - Não Saudavel: 52.5% participam do programa

@@ -1,0 +1,50 @@
+1. Identificação e Tratamento de Valores Ausentes, Duplicados e Inconsistências
+Resultados:
+
+Valores ausentes: 0 (zero) - Dataset limpo
+Duplicados: 0 (zero) registros duplicados
+IDs únicos: 1.374 IDs únicos (sem duplicação da chave primária)
+Consistência: Todas as variáveis categóricas apresentam valores consistentes
+
+2. Criação de Variáveis Derivadas
+Variáveis criadas:
+
+Faixa_Etaria_Detalhada: 6 faixas (18-24, 25-34, 35-44, 45-54, 55-64, 65+)
+Score_Saude_Alimentar: 1=Saudável, 0=Não Saudável (186 vs 179 registros)
+
+Indicadores Binários:
+Cliente_Premium: 282 clientes (20.5%)
+Cliente_Satisfeito: 768 clientes (55.9%)
+Canal_Digital: 1.097 clientes (79.8%)
+Alto_Valor_Compra, Alta_Frequencia, Alta_Renda
+
+3. Conversão de Dados Categóricos para Numéricos
+Métodos aplicados:
+
+Label Encoding para variáveis nominais
+Mapeamento ordinal customizado para Feedback_Cliente (1-5)
+Encoding binário para variável target (Participa_Programa)
+
+4. Padronização de Variáveis Numéricas (Z-Score)
+Variáveis padronizadas:
+
+Idade, Renda_Anual, Frequência_Compra, Valor_Médio_Compra, Pontuação_Lealdade
+Resultado: Média ≈ 0, Desvio padrão ≈ 1
+
+5. Tratamento de Outliers
+Critérios adotados:
+
+Método IQR: Q1 - 1.5 IQR e Q3 + 1.5IQR
+Método Z-Score: |z-score| > 3
+Estratégia: Winsorização (limitação aos percentis 5% e 95%)
+
+Variáveis tratadas:
+Renda_Anual, Valor_Médio_Compra, Pontuação_Lealdade
+
+Principais Descobertas:
+Qualidade dos dados: Excelente (sem missing values ou duplicados)
+Distribuição etária: Concentração em 45-54 anos (287 clientes)
+Produtos alimentícios: 365 clientes (26.6% do dataset)
+Clientes premium: 282 (20.5%) com alto valor e frequência
+Preferência digital: 79.8% preferem canais Online/App
+Satisfação: 55.9% dos clientes estão satisfeitos/muito satisfeitos

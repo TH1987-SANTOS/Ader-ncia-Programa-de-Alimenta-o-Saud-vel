@@ -1,0 +1,9 @@
+=== RELATÓRIO DO DATASET ===
+Total de registros: 1374
+Total de produtos alimentícios: 365
+
+Distribuição de produtos alimentícios:
+Saudável: 186 (51.0%)
+Não Saudável: 179 (49.0%)
+
+Porcentagem de produtos alimentícios no dataset: 26.6%
